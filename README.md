@@ -38,6 +38,3 @@ The stored procedure GETEMPLOYEEBYDEPT retrieves all employees from a specific d
 - Procedure Example Output: List of employees with salaries in a given department
 - Function Example Output: Average salary for the specified department
 
-🎯 Key Learning Outcomes
-
-How to create a
